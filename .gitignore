@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de Slides e Documentos
+*.pdf
+*.pptx
+*.docx
+
+# Dependências (caso venha a utilizar npm futuramente)
+node_modules/
+dist/
+build/
+
+# Variáveis de ambiente
+.env
+.env.local
